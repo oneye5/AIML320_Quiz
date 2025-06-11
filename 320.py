@@ -912,7 +912,7 @@ questions_db = [
             "A": "it combines hill climbing with random walk, allowing the algorithm to excape from local minima and converge on a global minimum",
             "B": "It is similar to bootstrapping, it is used for sampling data and results in better model performance due to strong generalization",
             "C": "It relies entirely on deterministic steps, always choosing the best available option at each stage to ensure rapid convergence",
-            "D": "Man would rather nothingness than not will at all"
+            "D": "Man would rather will nothingness than not will at all"
         },
         "correct": "A"
     },
