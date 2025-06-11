@@ -1016,7 +1016,48 @@ questions_db = [
         },
         "correct": "A"
     },
+    {
+        "question": "What best describes K-means",
+        "options": {
+            "A": "It is centroid based",
+            "B": "It is density based",
+            "C": "",
+            "D": ""
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What best describes K-means",
+        "options": {
+            "A": "It is a unsupervised clustering algorithm",
+            "B": "It is a supervised classification algorithm",
+            "C": "It is a supervised regression algorithm",
+            "D": "Is it? It thinks? it is."
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What best describes K-means",
+        "options": {
+            "A": "It is an iterative algorithm that repeats until convergence",
+            "B": "It is an iterative algorithm that has a known number of iterations until it is done",
+            "C": "It is a recursive algorithm",
+            "D": "It closely aligns with how Arman works, in that it adopts 'learners' that have to perform an uninformed search."
+        },
+        "correct": "A"
+    },
+    {
+        "question": "Which of the following clustering algorithms would perform best when presented with data in the shape of a ring contained inside another ring of data",
+        "options": {
+            "A": "DBSCAN",
+            "B": "K-means",
+            "C": "MeanShift",
+            "D": "Gaussian mixture"
+        },
+        "correct": "A"
+    },
 ]
+
 
 
 def shuffle(items):
