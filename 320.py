@@ -1084,7 +1084,7 @@ questions_db = [
             "C": "Edges",
             "D": "All of these"
         },
-        "correct": "A"
+        "correct": "D"
     },
     {
         "question": "Given that x is input, w is weights, b is bias and y is the prediction, what is the formula for the activation function of a perceptron",
