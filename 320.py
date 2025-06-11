@@ -1086,6 +1086,86 @@ questions_db = [
         },
         "correct": "A"
     },
+    {
+        "question": "What are some components of a NN",
+        "options": {
+            "A": "Node",
+            "B": "Weights",
+            "C": "Edges",
+            "D": "All of these"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "Given that x is input, w is weights, b is bias and y is the prediction, what is the formula for the activation function of a perceptron",
+        "options": {
+            "A": "y = f(w * x + b)",
+            "B": "y = f(b * w * x)",
+            "C": "y = f(b / w * x)",
+            "D": "y = f(x)"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What is the output of a perceptron?",
+        "options": {
+            "A": "Binary value",
+            "B": "Continuous value",
+            "C": "A vector",
+            "D": "a uh"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What does the bias term do in a perceptron?",
+        "options": {
+            "A": "It shifts the decision boundry up or down",
+            "B": "It adjusts the weights for each learning iteration of the perceptrion",
+            "C": "It adjusts the epoch value up or down",
+            "D": "It is multiplied by the ARMAN score in order to calculate the learning rate"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "In the context of a perceptron, what best aligns with how it learns?",
+        "options": {
+            "A": "if the prediction was incorect, it does something like the following: self.weights += (learningRate * (label - prediction)) * features",
+            "B": "if the prediction was incorect, it does something like the following: self.weights += learningRate * prediction * features",
+            "C": "if the prediction was incorect, it does something like the following: self.weights *= (learning rate * (label - prediction)) * features",
+            "D": "I have no idea"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What does the epoch value represent in the context of a perceptron",
+        "options": {
+            "A": "The number of learning iterations",
+            "B": "The number of weights",
+            "C": "The learning rate adjustment per learning iteration",
+            "D": "A constant multiplier for the ARMAN score assosiated with the"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "When does a single layer perceptron perform well?",
+        "options": {
+            "A": "On linearly separable data",
+            "B": "On data with a high ARMAN score",
+            "C": "On data with polynomial features",
+            "D": "a uh"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What is the most common method to update weights in a MLP",
+        "options": {
+            "A": "Gradient descent",
+            "B": "ARMAN score analysis",
+            "C": "KNN",
+            "D": "Hill climbing"
+        },
+        "correct": "A"
+    },
 ]
 
 
