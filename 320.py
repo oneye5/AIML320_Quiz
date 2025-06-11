@@ -1102,9 +1102,9 @@ questions_db = [
             "A": "Binary value",
             "B": "Continuous value",
             "C": "A vector",
-            "D": "a uh"
+            "D": "Any of these"
         },
-        "correct": "A"
+        "correct": "D"
     },
     {
         "question": "What does the bias term do in a perceptron?",
