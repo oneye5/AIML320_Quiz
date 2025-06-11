@@ -1056,6 +1056,36 @@ questions_db = [
         },
         "correct": "A"
     },
+    {
+        "question": "What best describes LOF (Local outlier factor)",
+        "options": {
+            "A": "It is a density based algorithm, anomalies are identified as points with relative low density",
+            "B": "It uses decision trees to separate data points, aiming to isolate anomalies which are few and distinct",
+            "C": "It generates a DT, where anomaies are identified as being part of short branches",
+            "D": "The higher we soar, the smaller we appear to those who cannot fly"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "what best describes Isolation forest",
+        "options": {
+            "A": "It uses decision trees to separate data points, aiming to isolate anomalies which are few and distinct",
+            "B": "It is a density based algorithm, anomalies are identified as points with relative low density",
+            "C": "It generates a KNN model, where anomalies are identified as being part of short branches",
+            "D": "DBSCAN"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "In the context of Isolation Forest, what is most likely to be classified as an anomaly",
+        "options": {
+            "A": "Leaf nodes in the DT that occur close to the root node of the tree",
+            "B": "Leaf nodes in the DT that occur at the bottom of the tree",
+            "C": "Long branches in the DT",
+            "D": "Anomalies are identified based on the ARMAN score of the node"
+        },
+        "correct": "A"
+    },
 ]
 
 
