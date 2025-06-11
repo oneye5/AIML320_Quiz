@@ -770,7 +770,7 @@ questions_db = [
         "question": "What is gradient descent?",
         "options": {
             "A": "Gradient descent can be used for regression, it takes an iterative aproach (hopefully) improving accuracy with each iteration",
-            "B": "Gradient descent is technically a classification algorithm",
+            "B": "Gradient descent is used to optimize other models",
             "C": "Gradient descent uses calculus black magic in order to figure out what direction to move to reduce error",
             "D": "all are true"
         },
