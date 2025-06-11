@@ -637,16 +637,6 @@ questions_db = [
         "correct": "C"
     },
     {
-        "question": "When tuning hyperparameters for Isolation Forest, which approach is recommended in the assignment?",
-        "options": {
-            "A": "Test all possible combinations of parameters",
-            "B": "Use only default parameters throughout",
-            "C": "Select 2 promising contamination values and vary other parameters",
-            "D": "Focus only on the n_estimators parameter"
-        },
-        "correct": "C"
-    },
-    {
         "question": "In feature selection using Pearson correlation, what threshold is specified for retaining features?",
         "options": {
             "A": "Features with correlation > 0.5 with target variable",
