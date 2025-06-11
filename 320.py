@@ -852,7 +852,7 @@ questions_db = [
             "A": "Taking a sample from a sample with replacement, used often for ensembles",
             "B": "Taking data and randomly splitting so we have data for training and testing",
             "C": "Sampling without replacement",
-            "D": "There is nothing very odd about lambs disliking birds of prey, but this is no reason for holding it against large birds of prey that they carry off lambs. And when the lambs whisper among themselves, 'These birds of prey are evil, and does this not give us a right to say that whatever is the opposite of a bird of prey must be good?' there is nothing intrinsically wrong with such an argument-though the birds of prey will look somewhat quizzically and say, 'We have nothing against these good lambs; in fact, we love them; nothing tastes better than a tender lamb.'"
+            "D": ""
         },
         "correct": "A"
     },
