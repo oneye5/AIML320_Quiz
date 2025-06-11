@@ -894,7 +894,7 @@ questions_db = [
             "C": "Minimax algorithm",
             "D": "None of these"
         },
-        "correct": "A"
+        "correct": "D"
     },
     {
         "question": "What is hill climbing?",
