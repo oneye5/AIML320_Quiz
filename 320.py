@@ -1256,6 +1256,46 @@ questions_db = [
         },
         "correct": "A"
     },
+{
+    "question": "What role does a 'fitness function' play in Genetic Programming?",
+    "options": {
+        "A": "It evaluates how well a program solves the problem",
+        "B": "It generates new individuals for the population",
+        "C": "It selects mutation points randomly",
+        "D": "It encrypts the population for security"
+    },
+    "correct": "A"
+},
+{
+    "question": "Which of these best describes the mutation operator in Genetic Programming?",
+    "options": {
+        "A": "Randomly changes parts of an individual program",
+        "B": "Deletes all nodes of a program tree",
+        "C": "Duplicates an individual without change",
+        "D": "Evaluates the fitness of a program"
+    },
+    "correct": "A"
+},
+{
+    "question": "Which of the following is typically used as the representation of solutions in GP?",
+    "options": {
+        "A": "Tree structures representing programs.",
+        "B": "Linear arrays of weights.",
+        "C": "Fixed-length chromosomes of 1s and 0s.",
+        "D": "Graphs representing neural layers."
+    },
+    "correct": "A"
+},
+{
+    "question": "Which of the following is a common termination criterion in Genetic Programming?",
+    "options": {
+        "A": "A solution reaches a predefined fitness threshold.",
+        "B": "All programs in the population are identical.",
+        "C": "The algorithm finds all possible solutions.",
+        "D": "Every individual in the population has been used."
+    },
+    "correct": "A"
+},
 ]
 
 
