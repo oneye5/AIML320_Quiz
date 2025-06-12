@@ -1156,6 +1156,106 @@ questions_db = [
         },
         "correct": "A"
     },
+    {
+        "question": "What best describes semi-supervised learning",
+        "options": {
+            "A": "Only some of the data is labeled",
+            "B": "Unsupervised ML algorithm used in conjunction with a supervised algorithm",
+            "C": "The data is unlabeled however contains hints as to what the label could be",
+            "D": "The data is not linearly sepperable therfore perceptrons cannot be used in isolation"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What best describes 'Support Vector Machines' (SVM)",
+        "options": {
+            "A": "Their objective is to fine the optimal hyperplane to seperate instances of different classes",
+            "B": "They are a form of perceptron that deal with vectors instead of one dimensional data points",
+            "C": "It is similar to a neuron in that it uses vector weights multiplied by input with a bias term in order to determine the output of an activation function",
+            "D": "It is a way of analysing an existing model in terms of generalization and accuracy. It basically determines how useful a model is."
+        },
+        "correct": "A"
+    },
+    {
+        "question": "Gotta throw in a gambling question in here, sorry, its company policy.",
+        "options": {
+            "A": "Is this one correct?",
+            "B": "Or perhaps is this one correct?",
+            "C": "Maybe even this one?",
+            "D": "Its probably not this one, but who knows ;)"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What are SVM's most likely to do when data isnt perfectly separable",
+        "options": {
+            "A": "Introduce a soft margin 'C' allowing for some misclassifications by introducing slack",
+            "B": "Give up, theres no point anyways is there?",
+            "C": "Similar to what happens in a simple regression classification algorithm, it tries to optomize for as many correct classifications as possible",
+            "D": "It adopts ensembles since it cannot deal with this alone, instead it falls back onto other models."
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What best describes Knowlege based systems (KBS)",
+        "options": {
+            "A": "They attempt to simulate human problem solving by using a knowlege base and interence mechanisms",
+            "B": "The knowlege base can be domain specific knowledge structured as rules, facts heuristics and ontologies",
+            "C": "None of these describe KBS",
+            "D": "All of these describe KBS"
+        },
+        "correct": "D"
+    },
+    {
+        "question": "What is the goal of KDD",
+        "options": {
+            "A": "To extract useful knowledge from large datasets",
+            "B": "To reduce the dimensionality of a dataset",
+            "C": "To optomize for the ARMAN score of an existing model",
+            "D": "to uh"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What does EC stand for",
+        "options": {
+            "A": "Evolutionary computation",
+            "B": "Enduring confrontation",
+            "C": "Electrical conductivity",
+            "D": "European community"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What best describes EC",
+        "options": {
+            "A": "They are a family of population based trial and error problem solvers",
+            "B": "They use deterministic rules to optimize linear functions in real time applications",
+            "C": "They are logic based systems that rely on symbolic reasoning to make decisions",
+            "D": "They involve supervised training of deep neural networks using labeled data"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "Which is most similar to EC",
+        "options": {
+            "A": "Reinforcment learning",
+            "B": "Density based clustering",
+            "C": "Centroid based clasification",
+            "D": "semi-supervised learning"
+        },
+        "correct": "A"
+    },
+    {
+        "question": "What is Genetic Programming (GC)",
+        "options": {
+            "A": "It is a type of evolutionary algorithm, its insired by natural selection",
+            "B": "It is a method for editing the DNA of organisms using computational models",
+            "C": "It is a programming language designed to mimic biological processes",
+            "D": "It is a machine learning technique that trains a neural network using genetic sequences"
+        },
+        "correct": "A"
+    },
 ]
 
 
